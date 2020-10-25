@@ -1,3 +1,4 @@
+<body>
 // Kryszard's Loot Filter ver 2.1
 //
 // twitch.tv/kryszard
@@ -398,3 +399,4 @@ ItemDisplay[(ARMOR OR WEAPON) ETH SOCK>0 CLVL<19]: %GRAY%ETH %NAME% %TAN%[%SOCKE
 ItemDisplay[(ARMOR OR WEAPON) ETH CLVL<19]: %GRAY%ETH %NAME%
 ItemDisplay[(ARMOR OR WEAPON) SOCK>0 CLVL<19]: %NAME% %TAN%[%SOCKETS%]
 ItemDisplay[(ARMOR OR WEAPON) CLVL>18]:
+</body>
